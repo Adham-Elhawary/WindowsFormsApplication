@@ -17,4 +17,5 @@ Visual Studio 2022 (Community edition or higher)
 
 .NET Framework 4.7.2 or later
 
-[Optional: SQL Server Express] if using database features
+ SQL Server Express
+
